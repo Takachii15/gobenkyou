@@ -1,6 +1,5 @@
 package main
 
-
 import (
   "fmt"
   "gobenkyou/basic"
@@ -9,4 +8,5 @@ import (
 func main(){
   fmt.Println("test")
   basic.Test()
+  basic.Factorial(5)
 }
