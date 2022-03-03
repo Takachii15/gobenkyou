@@ -1,0 +1,6 @@
+package intermediate
+
+func FunctionTest() {
+
+}
+

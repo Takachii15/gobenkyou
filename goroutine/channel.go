@@ -1,0 +1,3 @@
+package goroutin
+
+func testChannel() {}
