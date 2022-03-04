@@ -1,6 +1,8 @@
 # GO勉強
 
-Repository containing all my Golang basic learning flow
+![Gopher](./gopher.jpg)
+
+Repository for tracking my Learning process
 
 ## Golang Basic integer data type
 
